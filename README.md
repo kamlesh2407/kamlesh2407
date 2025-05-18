@@ -1,4 +1,16 @@
-<h2 align="left">💫 About me</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">About me</h2>
+
+###
 
 <p align="left">Data-driven professional with proven experience in business analytics, data visualization, and strategic insights. Proven track record in research analytics, market intelligence, and stakeholder engagement to drive decision-making.<br><br>Skilled in Excel, SQL, Python, MySQL, SQL Server, Power BI with expertise in managing large datasets and developing actionable insights for business growth. Currently working as a Data Research Analyst at Trivium Education Services Private Limited, leveraging my knowledge to provide insights for management.</p>
 
@@ -57,20 +69,5 @@
 ###
 
 <p align="left">Power Bi , Notion</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamlesh2407/kamlesh2407/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamlesh2407/kamlesh2407/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamlesh2407/kamlesh2407/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamlesh2407&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamlesh2407&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
